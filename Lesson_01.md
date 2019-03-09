@@ -1,4 +1,4 @@
-# Installing CentOS 7 on VirtualBox
+# Lesson 1: Installing CentOS 7 on VirtualBox
 ## Download Required Files
 
 1. Go to the following [link](http://isoredirect.centos.org/centos/7/isos/x86_64/) and download the file from the [Waterloo](http://mirror.csclub.uwaterloo.ca/centos/7.6.1810/isos/x86_64/).
